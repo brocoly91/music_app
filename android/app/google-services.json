@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88710006656",
+    "project_id": "ppop-music-app-second",
+    "storage_bucket": "ppop-music-app-second.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88710006656:android:ff3db2b1f5b6a1db0c6365",
+        "android_client_info": {
+          "package_name": "com.example.music_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88710006656-uq3l47pafdn5s9kdlstmhfdj0ni9bn9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFPNk4_1f9Sqtv0p0ZqhoHo-Xf0qjA964"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88710006656-uq3l47pafdn5s9kdlstmhfdj0ni9bn9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
