@@ -1,6 +1,7 @@
 #음원스트리밍 app
 
    주요기능 : 음원 재생 플레이리스트
+   
    사용기술 : flutter / GetX
    
 ![피팝1 Medium](https://user-images.githubusercontent.com/63596602/182821675-761bcecc-7ca5-450b-807f-2b1373833613.jpeg)
